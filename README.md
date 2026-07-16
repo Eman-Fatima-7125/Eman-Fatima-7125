@@ -157,11 +157,9 @@ I love turning ideas into functional applications by combining:
 <h3 align="center">🐍 C O N T R I B U T I O N  S N A K E</h3>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Eman-Fatima-7125/Eman-Fatima-7125/output/github-contribution-grid-snake-dark.svg"/>
 <img src="https://i.imgur.com/x1KbuCq.gif" width="1000"/> 
 </div>
-
 <br>
 <a href="https://github.com/Eman-Fatima-7125">
 <img src="https://media.tenor.com/Z0m4O7Vv2dQAAAAi/divider-pink-flowers.gif" width="100%"/></a>
