@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&font=roboto&text=Eman%20Fatima&fontColor=FF69B4&fontSize=70&height=85" alt="Eman Fatima" />
+<img src="./assets/first_image.jpeg&font=roboto&text=Eman%20Fatima&fontColor=FF69B4&fontSize=70&height=85" alt="Eman Fatima" />
 
 </div>
 
