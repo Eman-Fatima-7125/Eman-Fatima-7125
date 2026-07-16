@@ -154,7 +154,7 @@ I love turning ideas into functional applications by combining:
 
 <br>
 
-Currently pursuing Computer Science with a passion for software development, application design, and emerging technologies.
+
 
 
 </div>
@@ -176,7 +176,7 @@ Currently pursuing Computer Science with a passion for software development, app
 🌱 C U R R E N T L Y  L E A R N I N G
 
 </h3>
-
+Currently pursuing Computer Science with a passion for software development, application design, and emerging technologies.
 
 <div align="center">
 
