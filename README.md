@@ -12,8 +12,8 @@
 
 <div align="center">
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=I'm+a+Computer+Science+Student;I'm+a+Web+Developer;I'm+a+React.js+Developer;I'm+a+Flutter+App+Developer;I'm+Learning+Cybersecurity;Intern+at+Eco+Zindagi+Pvt+Ltd" />
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=FF69B4&center=true&vCenter=true&width=650&lines=I'm+a+Computer+Science+Student;I'm+a+Web+Developer;I'm+a+React.js+Developer;I'm+a+Flutter+App+Developer;I'm+Learning+Cybersecurity;Intern+at+Eco+Zindagi+Pvt+Ltd" />
+
 
 </div>
 
@@ -101,12 +101,9 @@ I love turning ideas into functional applications by combining:
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
-
-
-<!-- ================= ABOUT ME ================= -->
 
 
 <h3 align="center">
@@ -138,7 +135,7 @@ I love turning ideas into functional applications by combining:
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!--<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>-->
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 </a>
 
@@ -169,7 +166,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 </a>
 
@@ -188,7 +185,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 
 </a>
 
@@ -210,26 +207,21 @@ Currently pursuing Computer Science with a passion for software development, app
 <a href="https://github.com/Eman-Fatima-7125">
 
 
-<!-- <img src="https://img.shields.io/github/followers/Eman-Fatima-7125?logo=github&logoColor=FFFFFF&labelColor=FF69B4&color=E75480&style=for-the-badge"> -->
+<img src="https://img.shields.io/github/followers/Eman-Fatima-7125?logo=github&logoColor=FFFFFF&labelColor=FF69B4&color=E75480&style=for-the-badge">
 
 
 </a>
 
 
 <br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman-Fatima-7125&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
 
-
-
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eman-Fatima-7125&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
--->
 
 
 <br><br>
 
 
-<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Eman-Fatima-7125&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4"/>
--->
 
 
 </div>
@@ -242,7 +234,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
 
@@ -258,7 +250,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <div align="center">
 
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman-Fatima-7125&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF"/> -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eman-Fatima-7125&theme=github-compact&hide_border=true&area=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF"/> 
 
 
 </div>
@@ -271,7 +263,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
 
@@ -283,9 +275,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <div align="center">
 
-<!--
 <img src="https://github-profile-trophy.vercel.app/?username=Eman-Fatima-7125&theme=radical&no-frame=true&column=6&margin-w=15"/>
--->
 
 </div>
 
@@ -294,9 +284,8 @@ Currently pursuing Computer Science with a passion for software development, app
 
 
 <a href="https://github.com/Eman-Fatima-7125">
-<!--
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
--->
+
 </a>
 
 
@@ -310,19 +299,19 @@ Currently pursuing Computer Science with a passion for software development, app
 
 
 <div align="center">
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eman-Fatima-7125&theme=radical" width="100%"/> -->
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eman-Fatima-7125&theme=radical" width="100%"/> 
 <br><br>
- <!--
+ 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eman-Fatima-7125&theme=radical" width="31%" align="left"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eman-Fatima-7125&theme=radical" width="31%" align="right"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eman-Fatima-7125&theme=radical" width="31%" align="center"/>
- -->
+ 
 </div>
 
 <br><br>
 
 <a href="https://github.com/Eman-Fatima-7125">
-<!--<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>-->
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 
@@ -337,7 +326,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <div align="center">
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-Fatima-7125&layout=compact&theme=radical&hide_border=true&title_color=FF69B4"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-Fatima-7125&layout=compact&theme=radical&hide_border=true&title_color=FF69B4"/> 
 
 
 </div>
@@ -346,7 +335,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
 
@@ -363,12 +352,9 @@ Currently pursuing Computer Science with a passion for software development, app
 <div align="center">
 
 
-<!-- <img src="https://github.com/Eman-Fatima-7125/Eman-Fatima-7125/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> -->
-
+<img src="https://github.com/Eman-Fatima-7125/Eman-Fatima-7125/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
 
 </div>
-
-
 
 <br>
 
@@ -378,8 +364,7 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
-
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
 
@@ -397,9 +382,8 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <div align="center">
 
-<!--
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
--->
+
 
 <br><br>
 
@@ -410,23 +394,13 @@ Currently pursuing Computer Science with a passion for software development, app
 
 </h2>
 
-
 </div>
-
-
 
 <br>
 
-
-
 <a href="https://github.com/Eman-Fatima-7125">
-<!--
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
--->
 </a>
-
-
-
 
 <!-- ================= SNAKE ================= -->
 
@@ -441,21 +415,17 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <div align="center">
 
-<!--
 <img src="https://raw.githubusercontent.com/Eman-Fatima-7125/Eman-Fatima-7125/output/github-contribution-grid-snake-dark.svg"/>
--->
+
 </div>
 
 <br>
 
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> -->
+ <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
-
-
-
 
 <!-- ================= SOCIAL FOOTER ================= -->
 
@@ -466,21 +436,17 @@ Currently pursuing Computer Science with a passion for software development, app
 
 </h3>
 
-
-
 <div align="center">
-
-
 <a href="https://github.com/Eman-Fatima-7125">
 
-<!-- <img src="https://img.shields.io/badge/GitHub-Eman--Fatima--7125-black?style=for-the-badge&logo=github"/> -->
+<img src="https://img.shields.io/badge/GitHub-Eman--Fatima--7125-black?style=for-the-badge&logo=github"/> 
 
 </a>
 
 
 <a href="https://www.linkedin.com/in/eman-fatima-9975012b6/">
 
-<!-- <img src="https://img.shields.io/badge/LinkedIn-Eman%20Fatima-FF69B4?style=for-the-badge&logo=linkedin"/> -->
+<img src="https://img.shields.io/badge/LinkedIn-Eman%20Fatima-FF69B4?style=for-the-badge&logo=linkedin"/>
 
 </a>
 
@@ -491,26 +457,13 @@ Currently pursuing Computer Science with a passion for software development, app
 
 </a>
 
-
-
 </div>
 
-
-
-
 <br><br>
-
-
-
 <!-- ================= FOOTER ================= -->
-
-
 <div align="center">
 
-
-<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/> -->
-
-
+ <img src="https://i.imgur.com/x1KbuCq.gif" width="500"/> 
 
 <h2>
 
