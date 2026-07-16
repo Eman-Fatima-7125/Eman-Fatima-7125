@@ -22,12 +22,12 @@
 
 
 <!-- <img align="right" src="./assets/first_image.jpeg&font=roboto&text=Eman%20Fatima&fontColor=FF69B4&fontSize=70&height=85" width="380" alt="Coding Girl"> -->
+<h3 align="center">
 
+🌸 A B O U T  M E 🌸
 
-## 🌸 Hi, I'm Eman Fatima
-
-
-I am a **Computer Science student** passionate about building creative, responsive, and user-friendly digital experiences.
+</h3>
+A **Computer Science student** passionate about building creative, responsive, and user-friendly digital experiences.
 
 I love turning ideas into functional applications by combining:
 
@@ -97,99 +97,13 @@ I love turning ideas into functional applications by combining:
 
 
 <br>
-
-
 <a href="https://github.com/Eman-Fatima-7125">
 
  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
 
-
-<h3 align="center">
-
-🌸 A B O U T  M E 🌸
-
-</h3>
-
-
-<div align="center">
-
-
-| 🌸 Category | ✨ Details |
-|---|---|
-| 🎓 Education | Computer Science Student |
-| 💻 Primary Role | Web Developer |
-| ⚛ Framework | React.js |
-| 📱 Mobile Development | Flutter & Dart |
-| 🎨 Design Interest | UI/UX Design |
-| 🔐 Learning | Cybersecurity Fundamentals |
-| 🌱 Internship | Intern at Eco Zindagi Pvt. Ltd. |
-
-
-</div>
-
-
 <br>
-
-
-<a href="https://github.com/Eman-Fatima-7125">
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-
-</a>
-
-
-<h3 align="center">
-
-🎓 E D U C A T I O N
-
-</h3>
-
-
-<div align="center">
-
-
-🎓 **Bachelor of Computer Science**
-
-<br>
-
-
-
-
-</div>
-
-
-
-<br>
-
-
-<a href="https://github.com/Eman-Fatima-7125">
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-
-</a>
-
-
-<h3 align="center">
-
-🌱 C U R R E N T L Y  L E A R N I N G
-
-</h3>
-Currently pursuing Computer Science with a passion for software development, application design, and emerging technologies.
-
-<div align="center">
-
-<br>
-
-
-<a href="https://github.com/Eman-Fatima-7125">
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-
-</a>
-
-
 
 <!-- ================= STATS ================= -->
 
@@ -221,7 +135,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eman-Fatima-7125&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Eman-Fatima-7125&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF69B4"/> -->
 
 
 </div>
@@ -266,30 +180,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
-
-<h3 align="center">
-
-🏆 G I T H U B  T R O P H I E S
-
-</h3>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eman-Fatima-7125&theme=radical&no-frame=true&column=6&margin-w=15"/>
-
-</div>
-
 <br>
-
-
-
-<a href="https://github.com/Eman-Fatima-7125">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-
-</a>
-
-
-
 <h3 align="center">
 
 🌸 R E P O S I T O R Y  A C T I V I T Y
@@ -317,17 +208,11 @@ Currently pursuing Computer Science with a passion for software development, app
 
 <h3 align="center">
 
-💻 L A N G U A G E  S T A T S
+💻 Tech Stack</h3>
 
-</h3>
-
-
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eman-Fatima-7125&layout=compact&theme=radical&hide_border=true&title_color=FF69B4"/> 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind,react,python,php,flutter,dart,vscode,git,github,firebase,supabase&theme=dark&perline=5" />
+</p>
 
 </div>
 
@@ -338,37 +223,6 @@ Currently pursuing Computer Science with a passion for software development, app
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
 
 </a>
-
-
-
-<h3 align="center">
-
-🌸 3 D  C O N T R I B U T I O N
-
-</h3>
-
-
-
-<div align="center">
-
-
-<img src="https://github.com/Eman-Fatima-7125/Eman-Fatima-7125/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/> 
-
-</div>
-
-<br>
-
-
-<br>
-
-
-<a href="https://github.com/Eman-Fatima-7125">
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-
-
 <!-- ================= QUOTE ================= -->
 
 
@@ -377,14 +231,8 @@ Currently pursuing Computer Science with a passion for software development, app
 🌸 Q U O T E
 
 </h3>
-
-
-
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-
 <br><br>
 
 
@@ -422,9 +270,7 @@ Currently pursuing Computer Science with a passion for software development, app
 <br>
 
 <a href="https://github.com/Eman-Fatima-7125">
-
- <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/> 
-
+<img src="https://media.tenor.com/QMYLhCGzvzYAAAAi/pink-divider.gif" width="100%" height="2px"/>
 </a>
  
 
